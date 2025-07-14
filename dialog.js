@@ -4,33 +4,33 @@
 const dialogPuzzlesData5 = [
     {
         ukrainianPhrase: "Привіт! Як твої справи? Я сумний",
-        correctEnglishPhrase: "Hi! How are you? I'm sad?",
+        correctEnglishPhrase: "Hi! How are you? I'm sad",
         draggableEnglishWords: ["Hi!", "How", "are", "you?", "I'm", "sad"] 
     },
     {
         ukrainianPhrase: "Привіт, Як твої справи? Я чудово",
-        correctEnglishPhrase: "Hello! How are you? I'm great?",
+        correctEnglishPhrase: "Hello! How are you? I'm great",
         draggableEnglishWords: ["Hello!", "How", "are", "you?", "I'm", "great"]
     },
     {
         ukrainianPhrase: "Добрий ранок, Як твої справи? Я щасливий",
-        correctEnglishPhrase: "Good morning! How are you? I'm happy?",
-        draggableEnglishWords: ["Good", "morning", "How", "are", "you?", "I'm", "happy"]
+        correctEnglishPhrase: "Good morning! How are you? I'm happy",
+        draggableEnglishWords: ["Good", "morning!", "How", "are", "you?", "I'm", "happy"]
     },
     {
         ukrainianPhrase: "Добрий день, Як твої справи? Я втомлений",
-        correctEnglishPhrase: "Good afternoon! How are you? I'm tired?",
-        draggableEnglishWords: ["Good", "afternoon", "How", "are", "you?", "I'm", "tired"]
+        correctEnglishPhrase: "Good afternoon! How are you? I'm tired",
+        draggableEnglishWords: ["Good", "afternoon!", "How", "are", "you?", "I'm", "tired"]
     },
     {
         ukrainianPhrase: "Добрий вечір, Як твої справи? Я голодний",
-        correctEnglishPhrase: "Good evening! How are you? I'm hungry?",
-        draggableEnglishWords: ["Good", "evening", "How", "are", "you?", "I'm", "hungry"]
+        correctEnglishPhrase: "Good evening! How are you? I'm hungry",
+        draggableEnglishWords: ["Good", "evening!", "How", "are", "you?", "I'm", "hungry"]
     },
     {
         ukrainianPhrase: "Як твої справи? Я добре Добраніч",
-        correctEnglishPhrase: "Hi! How are you? I'm good? Good night",
-        draggableEnglishWords: ["How", "are", "you?", "I'm", "good", "Good", "night"]
+        correctEnglishPhrase: "How are you? I'm good. Good night",
+        draggableEnglishWords: ["How", "are", "you?", "I'm", "good.", "Good", "night"]
     }
 ];
 // game5_dialog_words.js
